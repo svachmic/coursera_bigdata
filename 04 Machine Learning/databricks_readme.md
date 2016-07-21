@@ -2,7 +2,10 @@
 
 Copy the link to the dbc file:
 
+Decision Trees
 > https://github.com/svachmic/coursera_bigdata/blob/master/04%20Machine%20Learning/decision_trees.dbc?raw=true
+
+K-Means Clustering
 > https://github.com/svachmic/coursera_bigdata/blob/master/04%20Machine%20Learning/kmeans.dbc?raw=true
 
 Go to the Databricks Community Edition website, log in and proceed to your workspace. Click on **Users**, **Your e-mail address** and in the third pane, click on the arrow pointing down right next to your e-mail address in the header. Click **Import** to bring up a form for importing a file. Select radio button **URL** and paste in the URL you have copied above. Press import and there you go, happy coding!
